@@ -1,2 +1,4 @@
 bin/*
-bin/01_helloworld.exe
+\pkg
+pkg/*/*
+\bin
